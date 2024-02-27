@@ -26,13 +26,13 @@ Logo após, instale o pytest:
 
 ## O Teste de Funções:
 
-O teste foi realizado para identifica se os valores são válidos para um teste funcional. Para que seja válido o teste deve
-começar com letra, conter apenas letras e números, e ter no mínimo 1 caractére e 
+O teste foi realizado para identificar se os valores são válidos para um teste funcional. Para que seja válido o teste deve
+começar com letra, conter apenas letras e números, e ter no mínimo 1 caractere e 
 no máximo 6. 
 
 src/identifier/identifier.py fica a função.
 
-tests/test_identifier.py saonde ficam os testes das funções
+tests/test_identifier.py aonde ficam os testes das funções
 
 esses foram os casos de testes escolhidos a serem executados.
 ## Testes do programa:
